@@ -54,7 +54,7 @@ There are several changes planned and hoped for, but contributors have other thi
 
 - Needs a lot of work.
 
-### Celica
+### Celia
 
 To be implemented once IK finishes basic attacks and movement
 
